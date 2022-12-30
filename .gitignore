@@ -1,0 +1,31 @@
+#
+# see https://linuxize.com/post/gitignore-ignoring-files-in-git/
+#
+# This file causes GIT to ignore sensitive files such as site.ini which contains passwords etc
+
+
+
+# let's ignore the documentation
+/docs/
+
+
+#lets ignopre any .ini files
+*.ini
+
+
+#ignore my cert files
+/cert2/
+/certs/
+
+
+#php doc cache files
+/.phpdoc/
+
+
+# the batch script to create the documentation
+document.sh
+
+
+
+# The microsoft code editor config file
+tt-timer.code-workspace

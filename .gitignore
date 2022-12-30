@@ -29,3 +29,8 @@ document.sh
 
 # The microsoft code editor config file
 tt-timer.code-workspace
+
+
+
+# I have to ignore this file??
+.gitignore
